@@ -52,6 +52,4 @@ This repository contains my implementation of the frontend assessment task. here
 
 ## Deployement
 
-This project has been deployed on vercel. please use the following link to navigate to the deployed website.
-
-- Website line: `http://localhost:3000`
+This project has been deployed on vercel. please use the following [link](https://frontend-assesment-zeta.vercel.app/) to navigate to the deployed website.
