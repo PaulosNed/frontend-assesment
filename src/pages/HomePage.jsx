@@ -15,10 +15,10 @@ const HomePage = () => {
 
             {/* specific pages */}
             <div className='flex flex-col'>
-                <OptionItem name="Page 1" />
-                <OptionItem name="Page 2" />
                 <OptionItem name="Page 3" />
                 <OptionItem name="Page 4" />
+                <OptionItem name="Page 5" />
+                <OptionItem name="Page 6" />
             </div>
 
             {/* line separator */}
