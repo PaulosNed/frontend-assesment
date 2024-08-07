@@ -12,7 +12,7 @@ module.exports = {
         montserrat: ['Montserrat', 'sans-serif'],
       },
       translate: {
-        '0.25': '0.03125rem', // 0.0625rem is equivalent to 1/16rem, which is 1px assuming 16px base font size
+        '0.25': '0.03125rem',
       },
     },
   },
